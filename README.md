@@ -143,7 +143,7 @@ python convinence_store_client.py
 | Roboflow 데이터셋 다운로드 시 인증 오류 | API 키 만료 또는 워크스페이스 권한 문제 | Roboflow 대시보드에서 새 API 키 발급 후 `.env`로 재설정 |
 
 ## 실행 화면
-_(웹 대시보드 스크린샷 또는 시연 GIF를 여기에 추가하세요)_
+ ![실행 화면](./assets/최종영상.gif)
 
 ## 향후 개선 사항
 - 다중 클라이언트(여러 매대 카메라) 동시 지원
